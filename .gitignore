@@ -2,7 +2,8 @@
 #####################################################
 ## Please do not remove lines 5 and 6 - thanks! 🙂 ##
 .vscode/
-*.md
+README-template.md
+style-guide.md
 #####################################################
 *.sketch
 *.fig
