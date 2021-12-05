@@ -1,4 +1,5 @@
 "use strict";
+//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
 
 const $EQUAL = document.querySelector("#equal");
 const $result = document.querySelector(".result");
